@@ -1,0 +1,14 @@
+GET /rest/basket/7 HTTP/1.1
+Host: 192.168.0.103:3000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MjUsInVzZXJuYW1lIjoiIiwiZW1haWwiOiJ1c2VyMkBqdWljZS1zaC5vcCIsInBhc3N3b3JkIjoiZmRkMDdkZTlhZWEzYjg3MzBjZTk1Njk0NDZiNTA1MjIiLCJyb2xlIjoiY3VzdG9tZXIiLCJkZWx1eGVUb2tlbiI6IiIsImxhc3RMb2dpbklwIjoiMTkyLjE2OC4wLjEwNiIsInByb2ZpbGVJbWFnZSI6Ii9hc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHQuc3ZnIiwidG90cFNlY3JldCI6IiIsImlzQWN0aXZlIjp0cnVlLCJjcmVhdGVkQXQiOiIyMDI1LTA3LTAxIDAzOjA3OjQxLjgzMCArMDA6MDAiLCJ1cGRhdGVkQXQiOiIyMDI1LTA3LTAxIDAzOjA4OjI1LjM4OCArMDA6MDAiLCJkZWxldGVkQXQiOm51bGx9LCJpYXQiOjE3NTEzNDEzNzN9.u0HnmatHjkrktRPp3hqDogE2yHxC_j4mrqO6O7SWSW4c8m4c7uBWuR6AtRWTg4WXahXS2i2Oo3sup6E0Z8z2B7G1Ila0X4UVCHh4hVXHhaFjvZm9mwFta5aDY3Jb8MZ7ppsqemHNuvkvAKfF1-OmygSqAzepaIggZAuRmu3v5Dc
+Connection: keep-alive
+Referer: http://192.168.0.103:3000/
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=4OKkZmlDoaKQ21Bb4N7yJPY3pdRWQuRQIKDGOV9L6gxzWEnej5qwv8RMXr1l
+DNT: 1
+Sec-GPC: 1
+Priority: u=0
+
